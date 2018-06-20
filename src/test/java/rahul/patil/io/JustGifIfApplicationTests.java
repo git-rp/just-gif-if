@@ -1,4 +1,4 @@
-package rahul.patil.io.justgifif;
+package rahul.patil.io;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

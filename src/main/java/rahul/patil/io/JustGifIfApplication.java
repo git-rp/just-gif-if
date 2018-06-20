@@ -1,4 +1,4 @@
-package rahul.patil.io.justgifif;
+package rahul.patil.io;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
